@@ -1,0 +1,24 @@
+itens necessários:
+-NAVBAR com 3 botões:
+.início
+.serviços
+.contato
+
+-slide de fotos
+
+-história (texto e foto)
+
+-serviços 6 cards
+
+- formulário
+
+-tamanhos pixel (fotos)
+.logo: 80x80
+>slide: 1400x500/slide cards: 1920x500
+>história: 600x400 (opcional)
+>cards: 1280x720
+
+navbar
+abrir container
+cada item com sua row ao todo 4
+e dentro de cada row deve conter as cols
